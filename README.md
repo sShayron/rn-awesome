@@ -29,4 +29,5 @@ A collection of awesome react-native libraries
 - [react-native-maps](https://github.com/react-native-maps/react-native-maps)
   > React Native Mapview component for iOS + Android
 
-- []()
+- [react-native-animated-pagination-dots](https://github.com/weahforsage/react-native-animated-pagination-dots)
+  > FlatList animated pagination dots
