@@ -31,3 +31,6 @@ A collection of awesome react-native libraries
 
 - [react-native-animated-pagination-dots](https://github.com/weahforsage/react-native-animated-pagination-dots)
   > FlatList animated pagination dots
+
+- [react-native-text-avatar](https://github.com/hicay/react-native-text-avatar)
+  > Gmail-style initials avatar for React Native with a stable color per name, multiple shapes and light/dark variants
